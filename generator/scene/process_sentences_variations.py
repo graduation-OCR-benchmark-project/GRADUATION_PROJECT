@@ -1,7 +1,6 @@
 import os
 from generator.scene.distortions import ImageDistorter
-from utils import Utils
-
+from generator.scene.utils import Utils
 class SentenceVariationGenerator:
     """
     Generates multiple variations of sentence images based on specified distortion configs.

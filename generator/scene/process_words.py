@@ -1,7 +1,7 @@
 import os
 import random
 from generator.scene.distortions import ImageDistorter
-from utils import Utils
+from generator.scene.utils import Utils
 
 class ProcessWords: #WordGenerator isime hala karar vermedim ikisi de olabilir 
     """
