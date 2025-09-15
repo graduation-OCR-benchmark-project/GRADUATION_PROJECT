@@ -12,3 +12,5 @@ Generates synthetic Turkish word images for OCR training using TRDG.
 - Generates 230 images by default
 - Uses blur, skew, and noise effects
 - Supports multiple font styles and backgrounds
+## Note
+This project requires pip version < 24.1 due to TRDG dependency issues.
