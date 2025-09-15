@@ -2,6 +2,9 @@
 
 Generates synthetic Turkish word images for OCR training using TRDG.
 
+## About
+This project uses the [TextRecognitionDataGenerator (TRDG)](https://github.com/Belval/TextRecognitionDataGenerator) by Belval to create synthetic Turkish text images with optimized parameters for OCR model training.
+
 ## Setup
 1. Install dependencies: `pip install -r requirements.txt`
 2. Add font files to `fonts/` folder
