@@ -8,7 +8,7 @@ This project uses the [TextRecognitionDataGenerator (TRDG)](https://github.com/B
 ## Setup
 1. Install dependencies: `pip install -r requirements.txt`
 2. Add font files to `fonts/` folder
-3. Add Turkish words to `sample_data/balanced_turkish_words.txt`
+3. Add Turkish words to `sample_data/turkish_words.txt`
 4. Run the notebook
 
 The `sample_data/` folder contains sample Turkish words and sentences for testing. 
